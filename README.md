@@ -2,7 +2,7 @@
 
 ## Intro
 
-利用 GAN 生成 伪 PPG 序列
+利用 GAN 生成 伪 PPG/RRI 序列
 
 ## dataset
 
